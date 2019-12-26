@@ -18,6 +18,7 @@ DEFAULT_PREFERENCE_sun50i="1"
 
 SRC_URI = "git://git.denx.de/u-boot.git;branch=master \
            file://0001-nanopi_neo_air_defconfig-Enable-eMMC-support.patch \
+           file://bpi-add-bananapi-m2-zero.patch \
            file://boot.cmd \
            "
 
